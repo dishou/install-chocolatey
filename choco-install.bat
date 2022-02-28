@@ -45,3 +45,7 @@ choco install evernote -y
 
 echo "greenshot"
 choco install greenshot -y
+
+echo "spotify"
+choco install spotify -y
+
