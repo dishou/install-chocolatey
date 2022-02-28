@@ -19,7 +19,6 @@ choco install steam -y
 echo "EpicGames"
 choco install epicgameslauncher -y
 
-
 echo "Notepad++"
 choco install "notepadplusplus -y
 
@@ -43,3 +42,6 @@ choco install figma -y
 
 echo "evernote"
 choco install evernote -y
+
+echo "greenshot"
+choco install greenshot -y
